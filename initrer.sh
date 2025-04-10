@@ -7,4 +7,4 @@ sudo apt autoremove
 # Nu installere 2 programmer som skal bruge i forbindelse med router funktionaliteten.
 sudo apt install iptables
 sudo apt install dnsmasq
-Echo Færdig nu kan wifi_to_rth_route.sh startes.
+echo Færdig nu kan wifi_to_rth_route.sh startes.
